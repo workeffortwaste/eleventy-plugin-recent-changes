@@ -17,5 +17,13 @@
   },
   "dependencies": {
     "gitlog": "^4.0.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/workeffortwaste/eleventy-plugin-recent-changes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workeffortwaste/eleventy-plugin-recent-changes.git"
+  },
+  "homepage": "https://github.com/workeffortwaste/eleventy-plugin-recent-changes/"
 }
