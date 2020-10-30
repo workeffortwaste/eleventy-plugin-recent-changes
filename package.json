@@ -1,0 +1,19 @@
+{
+    "name": "eleventy-plugin-recent-changes",
+    "version": "1.0.0",
+    "description": "Eleventy plugin that creates a collection containing your recent commit history.",
+    "main": ".eleventy.js",
+    "author": "Chris Johnson (https://defaced.dev)",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "license": "ISC",
+    "devDependencies": {
+      "eslint": "^7.12.1",
+      "eslint-config-standard": "^16.0.0",
+      "eslint-plugin-import": "^2.22.1",
+      "eslint-plugin-node": "^11.1.0",
+      "eslint-plugin-promise": "^4.2.1"
+    }
+  }
+  
