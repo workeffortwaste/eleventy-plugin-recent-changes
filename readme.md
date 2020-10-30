@@ -1,4 +1,4 @@
-# eleventy-recent-changes-plugin
+# eleventy-plugin-recent-changes
 
 An [Eleventy (11ty)](https://www.11ty.dev/) plugin that creates a collection containing your recent commit history. 
 
